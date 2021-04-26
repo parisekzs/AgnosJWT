@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hu.mi.agnos.jwt.model.token;
+package hu.mi.jwt.model.token;
 
-import hu.mi.agnos.jwt.model.key.Key;
-import hu.mi.agnos.jwt.model.key.KeyRing;
-import hu.mi.agnos.jwt.model.key.KeyStore;
-import hu.mi.agnos.jwt.util.AESCipher;
+import hu.mi.jwt.model.key.Key;
+import hu.mi.jwt.model.key.KeyRing;
+import hu.mi.jwt.model.key.KeyStore;
+import hu.mi.jwt.util.AESCipher;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.MalformedJwtException;
 import io.jsonwebtoken.SignatureException;

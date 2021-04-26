@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hu.mi.agnos.jwt.model.token;
+package hu.mi.jwt.model.token;
 
 import java.security.NoSuchAlgorithmException;
 import java.util.Base64;

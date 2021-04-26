@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hu.mi.agnos.jwt.model.key;
+package hu.mi.jwt.model.key;
 
 import java.util.ArrayList;
 

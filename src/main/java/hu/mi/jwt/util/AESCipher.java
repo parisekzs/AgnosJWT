@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package hu.mi.agnos.jwt.util;
+package hu.mi.jwt.util;
 
 import java.io.UnsupportedEncodingException;
 import java.security.InvalidKeyException;
